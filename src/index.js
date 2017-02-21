@@ -8,13 +8,6 @@ function Hello(){
           <h1>hello</h1>
           <h1>hello</h1>
           <h1>hello</h1>
-          <div>{a}</div>
-          <div>{a}</div>
-          <div>{a}</div>
-          <div>{a}</div>
-          <div>{a}</div>
-          <div>{a}</div>
-          <div>{a}</div>
         </div>
 
 }
